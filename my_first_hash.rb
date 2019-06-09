@@ -1,7 +1,7 @@
 def my_hash
   my_hash = {"me" => "Claudine","hubbie" => "Martin", "baby1" => "Aoibhe", "baby2" => "Isla", "baby3" => "TBA!"} 
 end
-puts my_hash["hubbie"]
+
 
 def shipping_manifest
   the_manifest = {"whale bone corsets" => 5, "porcelain vases" => 2, "oil paintings" => 3}
@@ -29,5 +29,6 @@ def adding
 
   shipping_manifest                   # returns shipping_manifest
 
-
 end
+
+
